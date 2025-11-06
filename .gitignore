@@ -1,0 +1,5 @@
+# Claude Code local settings (contains API keys and tokens)
+.claude/settings.local.json
+
+# User-specific Claude configuration (contains PAT tokens)
+# Note: ~/.claude.json is the global config, not tracked in this repo
